@@ -38,7 +38,7 @@ class	RPN {
 	};
 
 		private:
-	int				_result;
+	long long		_result;
 	int				_operand1;
 	int				_operand2;
 	char			_operator;
